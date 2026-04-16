@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Ankit",
+    "sport": "Football",
+    "position": "Goalkeeper",
+    "age": 22,
+    "stats": { "speed": 85, "stamina": 90, "accuracy": 92, "strength": 88, "agility": 84 }
+  },
+  {
+    "id": "2",
+    "name": "Priyanshu",
+    "sport": "Basketball",
+    "position": "Point Guard",
+    "age": 21,
+    "stats": { "speed": 92, "stamina": 88, "accuracy": 85, "agility": 94 }
+  },
+  {
+    "id": "3",
+    "name": "Rahul",
+    "sport": "Soccer",
+    "position": "Forward",
+    "age": 23,
+    "stats": { "speed": 94, "stamina": 89, "accuracy": 82, "agility": 91 }
+  },
+  {
+    "id": "4",
+    "name": "Yash",
+    "sport": "Football",
+    "position": "Center-back/Defensive midfielder",
+    "age": 20,
+    "stats": { "speed": 96, "stamina": 85, "accuracy": 78, "strength": 82, "agility": 93 }
+  },
+  {
+    "id": "5",
+    "name": "Chirag",
+    "sport": "Basketball",
+    "position": "Center",
+    "age": 24,
+    "stats": { "speed": 76, "stamina": 92, "accuracy": 88, "agility": 79 }
+  },
+  {
+    "id": "6",
+    "name": "Rohit",
+    "sport": "Soccer",
+    "position": "Midfielder",
+    "age": 22,
+    "stats": { "speed": 87, "stamina": 94, "accuracy": 88, "agility": 89 }
+  },
+  {
+    "id": "7",
+    "name": "Atul",
+    "sport": "Football",
+    "position": "Forward/Right winger",
+    "age": 21,
+    "stats": { "speed": 95, "stamina": 86, "accuracy": 74, "strength": 85, "agility": 92 }
+  },
+  {
+    "id": "8",
+    "name": "Jatin",
+    "sport": "Basketball",
+    "position": "Shooting Guard",
+    "age": 23,
+    "stats": { "speed": 89, "stamina": 87, "accuracy": 91, "agility": 90 }
+  },
+  {
+    "id": "9",
+    "name": "Santosh",
+    "sport": "Soccer",
+    "position": "Defender",
+    "age": 22,
+    "stats": { "speed": 83, "stamina": 91, "accuracy": 79, "agility": 86 }
+  },
+  {
+    "id": "10",
+    "name": "Ajay",
+    "sport": "Football",
+    "position": "Central midfielder",
+    "age": 24,
+    "stats": { "speed": 82, "stamina": 95, "accuracy": 69, "strength": 94, "agility": 80 }
+  },
+  {
+    "id": "11",
+    "name": "Deepak",
+    "sport": "Basketball",
+    "position": "Small Forward",
+    "age": 20,
+    "stats": { "speed": 88, "stamina": 86, "accuracy": 87, "agility": 91 }
+  },
+  {
+    "id": "12",
+    "name": "divya",
+    "sport": "Soccer",
+    "position": "Goalkeeper",
+    "age": 25,
+    "stats": { "speed": 72, "stamina": 84, "accuracy": 94, "agility": 88 }
+  },
+  {
+    "id": "13",
+    "name": "Priya",
+    "sport": "Football",
+    "position": "Striker",
+    "age": 22,
+    "stats": { "speed": 91, "stamina": 88, "accuracy": 81, "strength": 83, "agility": 89 }
+  },
+  {
+    "id": "14",
+    "name": "Deepanshu",
+    "sport": "Basketball",
+    "position": "Power Forward",
+    "age": 23,
+    "stats": { "speed": 80, "stamina": 90, "accuracy": 84, "agility": 83 }
+  },
+  {
+    "id": "15",
+    "name": "Yuvraj",
+    "sport": "Soccer",
+    "position": "Goalkeeper",
+    "age": 21,
+    "stats": { "speed": 93, "stamina": 87, "accuracy": 86, "agility": 92 }
+  }
+]
